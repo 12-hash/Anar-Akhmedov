@@ -1,0 +1,22 @@
+body{
+	background-color: #968c83;
+	font-family:  sans-serif;
+}
+h3,h2{
+	color: #00587a;
+}
+h2{
+	font-family: cursive;
+}
+hr{
+	
+	 border-style:dotted none none;
+  height: 0px;
+  width: 5%;
+  border-color:#00587a;
+  border-width: 5px;
+}
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+	color:#e7e7de;
+}
